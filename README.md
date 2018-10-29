@@ -1,6 +1,5 @@
-
-Whitepaper BioExcel workshop organisation
-=========================================
+Workshop organisation do's and dont's
+=====================================
 
 From brainstorming to concrete  
 ==============================
