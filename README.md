@@ -21,11 +21,6 @@ The Mindset
  - do anything because that's how one runs a workshop
   - it's not a performance and the interplay between form and content is hardly to be overestimated
 
-*Watch out for*
- -
-
-*Concrete example*
-
 Defining a topic
 ----------------
 
